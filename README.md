@@ -1,4 +1,4 @@
-# 👩‍💻 Sobre mí
+#  Sobre mí
 
 *Data Analyst | SQL | Python | Power BI*
 
