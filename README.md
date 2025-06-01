@@ -8,41 +8,41 @@ Mi experiencia profesional incluye el liderazgo de equipos de ventas durante tre
 
 ---
 
-## 🛠️ Habilidades Técnicas
+##  Habilidades Técnicas
 
-- 📊 *Análisis y manipulación de datos:*  
+-  *Análisis y manipulación de datos:*  
   SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-- 📈 *Visualización y reporting:*  
+-  *Visualización y reporting:*  
   Power BI, Google Sheets
 
-- ⚙️ *Optimización de procesos a través de datos*
+-  *Optimización de procesos a través de datos*
 
-- 🤖 *Modelos predictivos e introducción al Machine Learning:*  
+-  *Modelos predictivos e introducción al Machine Learning:*  
   Scikit-Learn
 
-- ☁️ *Gestión de datos en la nube:*  
+-  *Gestión de datos en la nube:*  
   Google Cloud Platform
 
 ---
 
-## 💡 Habilidades blandas y fortalezas
+## Habilidades blandas y fortalezas
 
-- ✔️ Enfoque práctico y orientado a resultados:  
+-  Enfoque práctico y orientado a resultados:  
   motivada por alcanzar objetivos claros y mejorar procesos desorganizados.
 
-- ✔️ Liderazgo y gestión de equipos:  
+-  Liderazgo y gestión de equipos:  
   5 años de experiencia promoviendo ambientes de trabajo eficientes y colaborativos.
 
-- ✔️ Resiliencia, autodisciplina y perseverancia:  
+-  Resiliencia, autodisciplina y perseverancia:  
   trayectoria sostenida en los mismos cargos, mejorando continuamente y adaptándome a nuevos desafíos.
 
-- ✔️ Responsabilidad y lealtad:  
+-  Responsabilidad y lealtad:  
   compromiso con proyectos y equipos a largo plazo.
 
 ---
 
-## 📊 Proyecto destacado
+##  Proyecto destacado
 
 *Análisis de stock para un e-commerce de licores*  
 Proyecto finalizado con los siguientes logros:
@@ -54,7 +54,7 @@ Proyecto finalizado con los siguientes logros:
 
 ---
 
-📫 *¿Quieres contactarme?*  
+ *¿Quieres contactarme?*  
 Estoy disponible para colaborar en proyectos de análisis de datos, optimización de procesos o reporting ejecutivo.
 
 ---
